@@ -1,0 +1,15 @@
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Models.deps.json
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Models.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Models.pdb
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Utilities.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Utilities.pdb
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.AssemblyInfo.cs
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.csproj.CopyComplete
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\refint\InventorySystem.Models.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.pdb
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Models\obj\Debug\net8.0\ref\InventorySystem.Models.dll
