@@ -1,0 +1,9 @@
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.AssemblyInfo.cs
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.RazorAssemblyInfo.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.RazorAssemblyInfo.cs
+C:\Users\oscar\source\repos\SistemaInventarioV6\SistemaInventarioV6\obj\Debug\net8.0\InventarySystem.sourcelink.json
