@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\bin\Debug\net8.0\InventorySystem.Utilities.deps.json
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\bin\Debug\net8.0\InventorySystem.Utilities.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\bin\Debug\net8.0\InventorySystem.Utilities.pdb
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\InventorySystem.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\InventorySystem.Utilities.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\InventorySystem.Utilities.AssemblyInfo.cs
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\InventorySystem.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\InventorySystem.Utilities.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\refint\InventorySystem.Utilities.dll
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\InventorySystem.Utilities.pdb
+C:\Users\oscar\source\repos\SistemaInventarioV6\InventorySystem.Utilities\obj\Debug\net8.0\ref\InventorySystem.Utilities.dll
